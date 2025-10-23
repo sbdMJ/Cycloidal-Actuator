@@ -1,4 +1,4 @@
-# Cycloidal-Actuator
+# Cycloidal Actuator
 
 
 
@@ -9,19 +9,57 @@
 3. [Demonstration](#3demonstration)
 
 ## 1.Introduction
+- ### Motivation
 
 
 
+
+
+<br><br><br><br><br><br>
+
+- ### Brief description of a cycloidal actuator
+
+
+
+
+
+
+<br><br><br><br><br><br><br>
 
 ## 2.Build Process
 
+- ### Coil Winding
 
+
+
+
+
+<br><br><br><br><br><br>
+
+- ### 3D model CNC machining
+
+
+
+
+<br><br><br><br><br><br>
+
+- ### Assembly steps
+
+
+
+
+
+<br><br><br><br><br><br>
 
 
 ## 3.Demonstration
 
+- ### Video
 
 
+
+
+<br><br><br><br><br><br>
 
 ## Reference
 
