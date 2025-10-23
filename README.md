@@ -9,7 +9,7 @@
 3. [Demonstration](#3demonstration)
 
 ## 1.Introduction
-- ### Motivation
+### Motivation
 
 This project was initiated as the first step toward building a future quadruped or bipedal robot from scratch — starting from its most fundamental unit: the actuator.
 Instead of relying on commercial servo modules, I aimed to design and build a custom actuator that offers high torque density, structural rigidity, and mechanical efficiency, optimized for legged locomotion. <br>
@@ -25,18 +25,32 @@ It lays the foundation for developing custom joint actuators that will eventuall
 
 <br>
 
-- ### Brief description of a cycloidal actuator
+### Brief description of a cycloidal actuator
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8d437594-0b52-49f6-8125-b9d21f271b29" />
+
+
+A cycloidal actuator is a type of precision reduction drive that converts the high-speed, low-torque rotation of a motor into low-speed, high-torque output through an eccentric and rolling motion mechanism. <br>
+
+Unlike traditional planetary or harmonic gear systems, a cycloidal drive uses: <br>
+- An eccentric cam that drives a cycloidal disc with offset motion,
+- Multiple rolling pins or needle bearings that transmit torque smoothly,
+- An output flange that averages the motion to reduce backlash.
 
 
 
+Because torque is distributed over multiple contact points, the mechanism achieves: <br>
 
-
+- High torque density and shock load tolerance,
+- Low backlash,
+- Compact structure,
+- And often better 3D-printability for prototyping.
 
 <br><br><br><br><br><br><br>
 
 ## 2.Build Process
 
-- ### Coil Winding
+### Coil Winding
 
 
 
@@ -44,14 +58,14 @@ It lays the foundation for developing custom joint actuators that will eventuall
 
 <br><br><br><br><br><br>
 
-- ### 3D model CNC machining
+### 3D model CNC machining
 
 
 
 
 <br><br><br><br><br><br>
 
-- ### Assembly steps
+### Assembly steps
 
 
 
@@ -62,7 +76,7 @@ It lays the foundation for developing custom joint actuators that will eventuall
 
 ## 3.Demonstration
 
-- ### Video
+### Video
 
 
 
