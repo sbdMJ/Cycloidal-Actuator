@@ -62,8 +62,10 @@ $$ <br>
 
 This means that one full revolution of the motor causes the output shaft to rotate 1/9 of a turn, providing roughly nine times the motor’s torque at the output. <br>
 
-Below is an image showing a cross section of the final design. <br><br>
-![ppp](https://github.com/user-attachments/assets/64c23d8c-822d-4b66-9cc0-8123d5a1d69a)
+Below is an image showing a cross section of the final design. <br>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a0bd3a63-9ff9-45b7-a4a4-8d642fcee157">
+
+
 
 
 
