@@ -11,11 +11,19 @@
 ## 1.Introduction
 - ### Motivation
 
+This project was initiated as the first step toward building a future quadruped or bipedal robot from scratch — starting from its most fundamental unit: the actuator.
+Instead of relying on commercial servo modules, I aimed to design and build a custom actuator that offers high torque density, structural rigidity, and mechanical efficiency, optimized for legged locomotion. <br>
 
+Among various transmission mechanisms, I chose a cycloidal reduction drive due to its high torque capability, compact size, backlash resistance, and shock absorption characteristics.
+Compared to traditional planetary or harmonic drives, cycloidal reducers distribute loads over multiple contact points, resulting in smoother torque transmission and better durability — an essential feature for dynamic robotic motion. <br>
 
+Throughout the development, I referred to several open-source and academic actuator designs available in the community (see References section) and focused on reproducing them as accurately as possible to deepen my understanding of their structure and performance.
+The primary objective was not to innovate or redesign, but to analyze, rebuild, and validate the principles behind existing cycloidal actuators as a foundation for future improvements and original designs. <br>
 
+This cycloidal actuator project therefore serves as a starting point — a practical and modular prototype built to gain hands-on experience in actuator design and testing.
+It lays the foundation for developing custom joint actuators that will eventually be integrated into my future quadruped and biped robot prototypes.
 
-<br><br><br><br><br><br>
+<br>
 
 - ### Brief description of a cycloidal actuator
 
