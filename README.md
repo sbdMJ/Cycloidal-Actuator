@@ -65,10 +65,6 @@ This means that one full revolution of the motor causes the output shaft to rota
 Below is an image showing a cross section of the final design. <br>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a0bd3a63-9ff9-45b7-a4a4-8d642fcee157">
 
-
-
-
-
 <br>
 
 ## 2.Build Process
@@ -82,7 +78,16 @@ This configuration increases the total copper cross-section, enabling higher con
 
 I designed and 3D-printed a custom winding fixture that allows six parallel strands of 26 AWG magnet wire to be evenly guided and tensioned during the coil winding process.
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e46ac7b6-4356-42f7-ba35-cf5c9490c4d7">
+<p align="center">
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/ee2f11e2-e627-4c9a-9654-bf3edeb9ec5d">
+</p>
+
+After designing the coil winding tool, a fixed ring was CNC-machined from aluminum 6061 and press-fitted onto the 10010 brushless motor stator. Following this assembly, the manual coil winding process was initiated using six parallel strands of 26 AWG magnet wire per phase.
+
+<p align="center">
+<img width="455" height="420" alt="image" src="https://github.com/user-attachments/assets/571805de-1bc4-4551-87cc-2a48f0e3f5d2">
+<img width="455" height="420" alt="image" src="https://github.com/user-attachments/assets/ec5f404c-2503-41a0-be1c-6c4dcb4fb381">
+</p>
 
 
 <br><br><br><br><br><br>
