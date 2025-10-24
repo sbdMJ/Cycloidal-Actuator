@@ -178,10 +178,7 @@ During assembly, installing the bearings was particularly challenging. Because a
 <img width="520" height="480" alt="image" src="https://github.com/user-attachments/assets/c0e5901b-5c5f-43eb-a8e4-35bd0393678e">
 </p>
 
-
-
 <br>
-
 
 ## 3.Demonstration
 
@@ -190,7 +187,16 @@ During assembly, installing the bearings was particularly challenging. Because a
 
 
 
-<br><br><br><br><br><br><br>
+https://github.com/user-attachments/assets/7dba28ad-40a2-4389-a91f-5434ce822128
+
+
+
+
+
+
+
+
+<br>
 
 ## Reference
 
