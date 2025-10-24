@@ -86,7 +86,7 @@ After designing the coil winding tool, a fixed ring was CNC-machined from alumin
 
 <p align="center">
 <img width="455" height="420" alt="image" src="https://github.com/user-attachments/assets/571805de-1bc4-4551-87cc-2a48f0e3f5d2">
-<img width="455" height="420" alt="image" src="https://github.com/user-attachments/assets/ec5f404c-2503-41a0-be1c-6c4dcb4fb381">
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a78952f0-7076-4727-87c3-423c87b42453">
 </p>
 
 The winding layout was determined by referring to the [Bavaria Direct BLDC winding calculator](https://www.bavaria-direct.co.za/scheme/calculator/)
