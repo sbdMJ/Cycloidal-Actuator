@@ -185,15 +185,7 @@ During assembly, installing the bearings was particularly challenging. Because a
 ### Video
 
 
-
-
 https://github.com/user-attachments/assets/7dba28ad-40a2-4389-a91f-5434ce822128
-
-
-
-
-
-
 
 
 <br>
