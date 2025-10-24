@@ -187,6 +187,7 @@ During assembly, installing the bearings was particularly challenging. Because a
 
 https://github.com/user-attachments/assets/7dba28ad-40a2-4389-a91f-5434ce822128
 
+A simple motion test was performed using a VESC motor controller connected to a CCPM Servo Consistency Master, which generated PWM signals to drive the actuator and verify basic rotation and responsiveness.
 
 <br>
 
