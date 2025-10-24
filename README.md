@@ -146,6 +146,28 @@ After the surface treatment, magnets were attached to the rotor, arranged altern
 <img width="520" height="480" alt="image" src="https://github.com/user-attachments/assets/22600977-591a-425b-8adf-ea55e84aeeb9">
 </p>
 
+After this step, I continued the assembly process while referring to the final assembly model and reference documentation provided by the original project to ensure correct component alignment and configuration.
+
+<p align="center">
+<img width="520" height="480" alt="image" src="https://github.com/user-attachments/assets/2eaf7ddd-b9cd-47e2-bb0e-37db431b2d6f">
+</p>
+
+During assembly, installing the bearings was particularly challenging. Because a dedicated bearing press tool was not available, I used a bench vise to press-fit the bearings into the housing with controlled pressure.
+
+<p align="center">
+<img width="520" height="480" alt="image" src="https://github.com/user-attachments/assets/69eed6dd-d37d-4cfc-9b3d-6c704d03871a">
+</p>
+
+#### Intermediate Result
+
+<p align="center">
+<img width="520" height="480" alt="image" src="https://github.com/user-attachments/assets/50f42ef8-d9eb-46f3-a6a9-f2e234d0c8b0">
+</p>
+
+<p align="center">
+<img width="520" height="480" alt="image" src="https://github.com/user-attachments/assets/96d8e10d-2298-4792-81fc-607f61e4d951">
+</p>
+
 
 
 <br>
