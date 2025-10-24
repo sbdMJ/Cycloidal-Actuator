@@ -89,6 +89,8 @@ After designing the coil winding tool, a fixed ring was CNC-machined from alumin
 <img width="455" height="420" alt="image" src="https://github.com/user-attachments/assets/ec5f404c-2503-41a0-be1c-6c4dcb4fb381">
 </p>
 
+The winding layout was determined by referring to the [Bavaria Direct BLDC winding calculator](https://www.bavaria-direct.co.za/scheme/calculator/)
+, based on a configuration of 36 stator slots and 42 magnet poles.
 
 <br><br><br><br><br><br>
 
