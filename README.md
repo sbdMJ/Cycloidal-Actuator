@@ -106,6 +106,17 @@ As illustrated in the figure above, all stator teeth were wound according to the
 
 ### Soldering
 
+After completing the coil winding, I twisted all the end wires together and soldered them to form the phase connections.
+Instead of using a magnet wire stripping machine, I manually removed the insulation from the magnet wire surfaces using sandpaper, then performed the soldering process.
+Finally, each solder joint was insulated and reinforced with heat-shrink tubing for protection and durability.
+
+<p align="center">
+<img width="520" height="480" alt="image" src="https://github.com/user-attachments/assets/1412eab7-34be-4d6e-be67-e35d6c4496d9">
+<img width="520" height="480" alt="image" src="https://github.com/user-attachments/assets/975f8a89-cd26-4ebb-a008-9066c4f640ab">
+</p>
+
+
+
 
 
 
