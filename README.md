@@ -168,6 +168,16 @@ During assembly, installing the bearings was particularly challenging. Because a
 <img width="520" height="480" alt="image" src="https://github.com/user-attachments/assets/96d8e10d-2298-4792-81fc-607f61e4d951">
 </p>
 
+#### Final Result
+
+<p align="center">
+<img width="520" height="480" alt="image" src="https://github.com/user-attachments/assets/d0e96636-2cd2-444b-b310-22aeab533b1e">
+</p>
+
+<p align="center">
+<img width="520" height="480" alt="image" src="https://github.com/user-attachments/assets/c0e5901b-5c5f-43eb-a8e4-35bd0393678e">
+</p>
+
 
 
 <br>
