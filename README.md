@@ -78,8 +78,11 @@ Below is an image showing a cross section of the final design. <br>
 The stator used in this actuator is a 10010 brushless motor core, which I manually wound using 26 AWG magnet wire with six parallel strands per phase. <br>
 Instead of a single thick conductor, multiple thinner wires are wound in parallel to achieve the same total cross-sectional area while improving space utilization, flexibility, and thermal dissipation during high-current operation. <br>
 
-This configuration increases the total copper cross-section, enabling higher continuous current and better torque density without excessive heat buildup, while maintaining manageable wire flexibility for precise coil placement.
+This configuration increases the total copper cross-section, enabling higher continuous current and better torque density without excessive heat buildup, while maintaining manageable wire flexibility for precise coil placement. <br>
 
+I designed and 3D-printed a custom winding fixture that allows six parallel strands of 26 AWG magnet wire to be evenly guided and tensioned during the coil winding process.
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e46ac7b6-4356-42f7-ba35-cf5c9490c4d7">
 
 
 <br><br><br><br><br><br>
