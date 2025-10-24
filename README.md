@@ -123,18 +123,32 @@ After removing the enamel insulation, I soldered 16 AWG electric wires to each p
 <img width="520" height="480" alt="image" src="https://github.com/user-attachments/assets/e33619b2-163b-4d5d-b6b9-398db8a70207">
 </p>
 
-
-
-
 <br>
 
 ### Assembly steps
 
+Unlike non-magnetic materials such as plastic or aluminum, which do not conduct magnetic flux and cause magnetic leakage, mild steel 1045 provides a strong magnetic path for the rotor.
+Therefore, the rotor was CNC-machined from mild steel 1045 to ensure efficient flux return and minimize magnetic losses, resulting in higher torque and overall performance.
+
+<p align="center">
+<img width="520" height="480" alt="image" src="https://github.com/user-attachments/assets/a6426657-5d74-4af6-bd88-a2b4c78b7c9d">
+</p>
+
+Because the rotor is made of steel, its surface was coated to prevent corrosion. A surfacer primer was applied as the base layer, and a matte finish paint was used as the top coat to protect the metal surface and improve durability.
+
+<p align="center">
+<img width="520" height="480" alt="image" src="https://github.com/user-attachments/assets/b28c8248-eb8e-4580-ac8e-02ee30f6d4a6">
+</p>
+
+After the surface treatment, magnets were attached to the rotor, arranged alternately with N and S poles around its circumference to form the magnetic field pattern for the actuator.
+
+<p align="center">
+<img width="520" height="480" alt="image" src="https://github.com/user-attachments/assets/22600977-591a-425b-8adf-ea55e84aeeb9">
+</p>
 
 
 
-
-<br><br><br><br><br><br>
+<br>
 
 
 ## 3.Demonstration
