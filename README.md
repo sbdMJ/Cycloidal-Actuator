@@ -113,14 +113,20 @@ Finally, each solder joint was insulated and reinforced with heat-shrink tubing 
 <p align="center">
 <img width="520" height="480" alt="image" src="https://github.com/user-attachments/assets/1412eab7-34be-4d6e-be67-e35d6c4496d9">
 <img width="520" height="480" alt="image" src="https://github.com/user-attachments/assets/975f8a89-cd26-4ebb-a008-9066c4f640ab">
+<img width="520" height="480" alt="image" src="https://github.com/user-attachments/assets/2a065d64-0b7f-427a-ada3-cd0da5b57060">
+</p>
+
+The start lines were also stripped manually using sandpaper, similar to the end wires.
+After removing the enamel insulation, I soldered 16 AWG electric wires to each phase (A, B, and C) to serve as the main power leads.
+
+<p align="center">
+<img width="520" height="480" alt="image" src="https://github.com/user-attachments/assets/e33619b2-163b-4d5d-b6b9-398db8a70207">
 </p>
 
 
 
 
-
-
-<br><br><br><br><br><br>
+<br>
 
 ### Assembly steps
 
